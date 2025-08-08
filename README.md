@@ -1,4 +1,4 @@
-# Complaint Service Module
+# 🚦 Complaint Service Module
 
 This project provides implementations of several fundamental data structures in C++ using templates. It is designed as a foundational module for managing complaints or similar records, and can be extended for broader use.
 
@@ -10,13 +10,15 @@ This project provides implementations of several fundamental data structures in 
 
 ## Data Structures & Features
 
-### 🔗 Singly Linked List (SLL)
+## Data Structures & Features
+
+### 🧬✨ Singly Linked List (SLL)
 
 - Generic (template-based) implementation
 - Operations: insert at start/end, delete, search, print, copy constructor
 - Custom iterator class for traversal (supports standard iterator operations)
 
-### 🗃️ Universal Hash Table
+### 🧠� Universal Hash Table
 
 - Generic (template-based) implementation
 - Supports insertion, deletion, search
@@ -24,23 +26,23 @@ This project provides implementations of several fundamental data structures in 
 - Universal hashing and double hashing for collision resolution
 - Hash functions for integers and customizable universal hash
 
-### 🌳 AVL Tree
+### �⚖️ AVL Tree
 
 - Self-balancing binary search tree
 - Supports insert, delete, search, rotations for balancing
 - Template-based for flexible key/value types
 
-### 🥇 Priority Queue
+### 🚀🎯 Priority Queue
 
 - Generic (template-based) implementation
 - Supports enqueue, dequeue, heap-based operations
 - Used for managing complaints or tasks by priority
 
-### 🧩 Templates
+### 🧩🛠️ Templates
 
 - All major data structures are implemented as C++ templates for type flexibility
 
-### 🧭 Iterators
+### 🧭🔍 Iterators
 
 - Custom iterator for singly linked list, supporting traversal and comparison
 
